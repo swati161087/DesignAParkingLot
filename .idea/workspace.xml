@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdfeca68-ca8c-49ec-ae2c-8bf35070f94b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignParkingLot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/ObjectRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/controllers/ParkingLotController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/controllers/TicketController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/dto/CreateParkingLotRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/dto/CreateParkingLotResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/dto/GenerateTicketRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/dto/GenerateTicketResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/dto/UpdateParkingLotRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/dto/UpdateParkingLotResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/enums/BillStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/enums/GateType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/enums/ParkingSpotStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/enums/ParkingSpotType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/enums/VehicleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/BaseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/DisplayBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/ElectricCharger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/ElectricParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/EntryGate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/ExitGates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/Gate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/ParkingFloor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/ParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/repositories/ParkingLotRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/repositories/TicketRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/services/ParkingLotService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/services/TicketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/strategies/RandomSpotAssignmentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/strategies/SpotAssignmentStrategy.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H1mEcSbcNgoN6PDI7ToOkoH7M3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.scaler.parkinglot.dto" />
+      <recent name="com.scaler.parkinglot.models" />
+      <recent name="com.scaler.parkinglot.enums" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scaler.parkinglot.Client" />
+      <module name="DesignParkingLot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdfeca68-ca8c-49ec-ae2c-8bf35070f94b" name="Changes" comment="" />
+      <created>1667460858219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667460858219</updated>
+      <workItem from="1667460859727" duration="6350000" />
+      <workItem from="1668081332912" duration="878000" />
+      <workItem from="1668348287805" duration="28998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/scaler/parkinglot/Client.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/scaler/parkinglot/services/TicketService.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/scaler/parkinglot/services/TicketService.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/scaler/parkinglot/services/TicketService.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/scaler/parkinglot/services/TicketService.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/scaler/parkinglot/repositories/TicketRepository.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/scaler/parkinglot/strategies/RandomSpotAssignmentStrategy.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/scaler/parkinglot/strategies/RandomSpotAssignmentStrategy.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/scaler/parkinglot/repositories/TicketRepository.java</url>
+          <line>11</line>
+          <properties class="com.scaler.parkinglot.repositories.TicketRepository" method="save">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="objectRegist" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
